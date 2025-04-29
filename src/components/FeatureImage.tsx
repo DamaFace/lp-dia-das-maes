@@ -7,7 +7,7 @@ const FeatureImage: React.FC = () => {
         <div className="relative max-w-4xl mx-auto overflow-hidden rounded-xl shadow-lg">
           <div className="absolute inset-0 bg-gradient-to-r from-pink-500 to-purple-500 opacity-10"></div>
           <img 
-            src="https://images.pexels.com/photos/3768146/pexels-photo-3768146.jpeg" 
+            src="https://damaface.com.br/cadastre-se-e-ganhe-lp.jpg" 
             alt="Mãe e filha abraçadas, compartilhando um momento de carinho e amor" 
             className="w-full h-auto object-cover"
           />
