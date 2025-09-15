@@ -1,5 +1,5 @@
 import React from 'react';
-import imgFilhaMae from './../assets/cadastre-se-e-ganhe-lp'
+import imgFilhaMae from './../assets/cadastre-se-e-ganhe-lp.jpg'
 
 const FeatureImage: React.FC = () => {
   return (
