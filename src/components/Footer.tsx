@@ -20,7 +20,7 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="font-display text-lg font-bold mb-4">Contato</h3>
             <p className="text-gray-600 mb-2">contato@damaface.com.br</p>
-            <p className="text-gray-600">Central de Atendimento: <br />(19) 99553-4809</p>
+            <p className="text-gray-600">Central de Atendimento: <br />(19) 98217-7463</p>
           </div>
           
           <div>
