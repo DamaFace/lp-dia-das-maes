@@ -1,4 +1,5 @@
 import React from 'react';
+import imgFilhaMae from './../assets/cadastre-se-e-ganhe-lp'
 
 const FeatureImage: React.FC = () => {
   return (
@@ -7,7 +8,7 @@ const FeatureImage: React.FC = () => {
         <div className="relative max-w-4xl mx-auto overflow-hidden rounded-xl shadow-lg">
           <div className="absolute inset-0 bg-gradient-to-r from-pink-500 to-purple-500 opacity-10"></div>
           <img 
-            src="https://damaface.com.br/cadastre-se-e-ganhe-lp.jpg" 
+            src={imgFilhaMae} 
             alt="Mãe e filha abraçadas, compartilhando um momento de carinho e amor" 
             className="w-full h-auto object-cover"
           />
